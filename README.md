@@ -33,3 +33,7 @@ In this assignment, I:
 - SciPy (for statistical tests)
 
 ---
+
+### 📘 Part B Summary
+
+In Part B, I applied a two-proportion z-test to explore whether smokers are more likely to file insurance claims. The analysis showed a statistically significant difference, supporting the idea that smoking increases claim risk.
