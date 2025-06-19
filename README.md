@@ -1,3 +1,5 @@
+# Frequentist Inference Case Study- Part A and B
+
 # Frequentist Inference Case Study – Part A
 
 This notebook is part of my data science training through Springboard. In this project, I applied key frequentist statistical methods to explore and analyze health insurance charges.
